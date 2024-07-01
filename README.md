@@ -78,5 +78,10 @@ This project includes a Hardhat setup for deploying and testing the smart contra
    npx hardhat mint --recipient <recipient_address> --quantity <amount> --network <network_name>
    ```
 
+### Deployment details
+Degen token deployed to 0xD0BFe7253aB8EdCe6Fb46Eba473e13Ee9336aE82
+
+Successfully verified contract link: 
+
 ### Authors
 Abdulyekeen Lukman
